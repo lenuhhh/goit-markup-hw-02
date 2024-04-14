@@ -8,7 +8,10 @@ button {
     cursor: pointer;
 }
 address {
-    font-style: normal;
+font-style: normal;
+.menu-link .link:hover,
+.menu-link .link:focus
+background-color: #404BBF
 }
 body {
 font-family: "Roboto", sans-serif;
