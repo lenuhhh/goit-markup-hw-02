@@ -14,6 +14,7 @@ color: #434455;
 }
 .page-logo {
     font-style: Roboto;
+    line-height: 1.17
 }
 .menu-link {
 font-family: "Roboto", sans-serif;
@@ -177,4 +178,5 @@ line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
+line-height: 1.17
 }
