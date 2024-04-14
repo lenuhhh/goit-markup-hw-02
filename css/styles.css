@@ -168,8 +168,8 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #000000;
 line-height: 1.17;
+color: #4d5ae5;
 }
 .page-logotype {
 width: 115px;
@@ -183,6 +183,6 @@ text-transform: uppercase;
 color: #4d5ae5;
 line-height: 1.17;
 }
-page-address {
+.page-address {
 font-style: normal
 }
