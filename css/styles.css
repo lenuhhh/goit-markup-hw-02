@@ -87,8 +87,8 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;  
 }
-.page-team .link:hover,
-.page-team .link:focus {
+.menu-link .link:hover,
+.menu-link .link:focus {
 background-color: #404BBF
 }
 .team-box {
@@ -189,3 +189,4 @@ line-height: 1.17;
 }
 .page-address {
 font-style: normal
+}
