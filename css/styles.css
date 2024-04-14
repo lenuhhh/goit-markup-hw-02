@@ -12,10 +12,6 @@ font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
 color: #434455;
 }
-.page-logo {
-    font-style: Roboto;
-    line-height: 1.17
-}
 .menu-link {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -166,14 +162,14 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 page-logo {
-font-family: "Raleway", sans-serif
-font-weight: 700
-font-size: 18px
-line-height: 1.16667
-letter-spacing: 0.03em
-text-transform: uppercase
-color: #000000
-line-height: 1.17   
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #000000;
+line-height: 1.17; 
 }
 .page-logotype {
 width: 115px;
