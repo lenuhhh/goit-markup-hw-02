@@ -9,9 +9,6 @@ button {
 }
 address {
 font-style: normal;
-.menu-link .link:hover,
-.menu-link .link:focus;
-color: #404BBF;
 }
 body {
 font-family: "Roboto", sans-serif;
@@ -25,6 +22,9 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+.menu-link .link:hover,
+.menu-link .link:focus;
+color: #404BBF;
 }
 /* ============== NAVIGATION MENU ==============*/
 .nav-menu {
@@ -88,10 +88,6 @@ line-height: 1.11111;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;  
-}
-.menu-link .link:hover,
-.menu-link .link:focus {
-background-color: #404BBF
 }
 .team-box {
 width: 1440px;
@@ -189,7 +185,4 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 line-height: 1.17;
-}
-.page-address {
-font-style: normal;
 }
