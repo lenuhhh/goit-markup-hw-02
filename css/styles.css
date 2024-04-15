@@ -35,7 +35,6 @@ color: #404bbf
 .menu-link:focus {
 color: #404bbf
 }
-/* ============== NAVIGATION MENU ==============*/
 .nav-menu {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
@@ -44,7 +43,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-/* ============== EFFECTIVE SECTION ============== */
 .button-order {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -52,7 +50,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 .button-order:hover {
@@ -77,8 +74,6 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .team-box {
-width: 1440px;
-height: 732px;
 background: #f4f4fd;
 }
 .main-section {
@@ -88,7 +83,6 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;
 }
-/* ============== NAME TEAM ==============*/
 .teams {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -97,10 +91,6 @@ color: #ffffff;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-}
-.pages-info {
-    width: 264px;
-    height: 260px;
 }
 .page-product {
     font-family: "Roboto", sans-serif;
