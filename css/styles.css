@@ -24,7 +24,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 .menu-link .link:hover,
 .menu-link .link:focus;
-color: #2e2f42;
+color: #4d5ae5;
 }
 /* ============== NAVIGATION MENU ==============*/
 .nav-menu {
@@ -172,7 +172,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 line-height: 1.17;
-color: #404bbf;
+color: #404bbf ;
 }
 .page-logotype {
 width: 115px;
