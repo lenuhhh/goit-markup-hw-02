@@ -175,6 +175,13 @@ color: #404bbf
 .page-logo:focus {
 color: #404bbf
 }
+.page-logo {
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
 .page-logotype {
 width: 115px;
 height: 24px;
