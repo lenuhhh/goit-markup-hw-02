@@ -29,6 +29,12 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+.menu-link:hover {
+color: #404bbf
+}
+.menu-link:focus {
+color: #404bbf
+}
 /* ============== NAVIGATION MENU ==============*/
 .nav-menu {
 font-family: "Roboto", sans-serif;
