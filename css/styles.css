@@ -59,8 +59,8 @@ height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
-.social-links .button-order:hover 
-.social-links .button-order:focus {
+.button-order:hover, 
+.button-order:focus {
 background-color: #404BBF;
 }
 .page-benefits {
