@@ -59,7 +59,9 @@ height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
-.button-order .link:hover 
+.button-order .link:hover {
+background-color: #404BBF;
+}
 .button-order .link:focus {
 background-color: #404BBF;
 }
