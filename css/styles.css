@@ -71,6 +71,12 @@ font-size: 20px;
 line-height: 1.2;
 color: #2e2f42;
 letter-spacing: 0.02em;
+font-size: 36px;
+ine-height: 1.11;
+text-align: center;
+text-transform: capitalize;
+
+
 }
 .text-page {
 font-family: "Roboto", sans-serif;
