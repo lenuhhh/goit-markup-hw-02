@@ -15,9 +15,6 @@ font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
 color: #434455;
 }
-span {
-    color: #f4f4fd;
-}
 .menu-link {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -161,7 +158,7 @@ font-size: 18px;
 line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: #f4f4fd;
 font-style: normal;
 }
 .page-logo {
@@ -185,8 +182,4 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 line-height: 1.17;
-}
-.menu-link .link:hover,
-.menu-link .link:focus {
-color: #404bbf;
 }
