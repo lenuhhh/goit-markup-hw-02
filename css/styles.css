@@ -18,7 +18,7 @@ color: #434455;
 .nav-menu:hover {
 color: #404bbf;
 }
-.nav-menu: focus {
+.nav-menu:focus {
 color: #404bbf;
 }
 .menu-link {
