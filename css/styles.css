@@ -183,3 +183,8 @@ text-transform: uppercase;
 color: #4d5ae5;
 line-height: 1.17;
 }
+.menu-nav {
+.menu-link .link:hover,
+.menu-link .link:focus 
+color: #404bbf;
+}
