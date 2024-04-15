@@ -88,6 +88,13 @@ width: 1440px;
 height: 732px;
 background: #f4f4fd;
 }
+.main-section {
+font-size: 56px;
+line-height: 1.07;
+ text-align: center;
+ letter-spacing: 0.02em;
+color: #ffffff;
+}
 /* ============== NAME TEAM ==============*/
 .teams {
     font-family: "Roboto", sans-serif;
