@@ -66,12 +66,11 @@ background-color:#404BBF;
 background-color:#404BBF;
 }
 .page-benefits {
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 0.02em;
 color: #2e2f42;
+letter-spacing: 0.02em;
 }
 .text-page {
 font-family: "Roboto", sans-serif;
@@ -190,10 +189,4 @@ line-height: 1.17;
 .team-box-one {
 background-color: #2e2f42;  
 }
-.page-benefits {
-font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;
-}
+
